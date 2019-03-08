@@ -31,6 +31,8 @@ If you are building with Gradle, simply add the following line to the `dependenc
 implementation 'com.facebook.fresco:fresco:1.13.0'
 ```
 
+若你已使用过Glide或Picasso，想以类似的方式使用Fresco，可以试试这个库：https://github.com/hpdx/fresco-helper
+
 For full details, visit the documentation on our web site, available in English, Chinese, and Korean:
 
 <a href="http://frescolib.org/docs/index.html"><img src="http://frescolib.org/static/GetStarted-en.png" width="150" height="42"/></a>
@@ -44,7 +46,6 @@ For full details, visit the documentation on our web site, available in English,
 Please use our [issues page](https://github.com/facebook/fresco/issues) to let us know of any problems.
 
 For pull requests, please see the [CONTRIBUTING](https://github.com/facebook/fresco/blob/master/CONTRIBUTING.md) file for information on how to help out. See our [documentation](http://frescolib.org/docs/building-from-source.html) for information how to build from source.
-
 
 ## License
 Fresco is [MIT-licensed](https://github.com/facebook/fresco/blob/master/LICENSE).
